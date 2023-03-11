@@ -17,3 +17,9 @@ main {
   background-color: #90CFDE;
   padding: 10px;
   margin: 10px;}
+article {
+  background-color: #B5DAE3;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+    float: left}
