@@ -13,3 +13,7 @@ nav {
 li {
   display: inline;
   padding: 4px}
+main {
+  background-color: #8DC0C4;
+  padding: 10px;
+  margin: 10px;}
