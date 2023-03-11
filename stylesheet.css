@@ -3,16 +3,16 @@
 color: #224042;
 text-align: center;}
 body {
-  width 960px
-  margin: 0 auto
-    border: groove}
+  width 960px;
+  margin: 0 auto;
+    border: groove;}
 nav {
   background-color: #539DA3;
     padding: 12px;
   margin: 10px;}
 li {
   display: inline;
-  padding: 2px}
+  padding: 2px;}
 main {
   background-color: #90CFDE;
   padding: 10px;
@@ -24,4 +24,4 @@ article {
   width: 300px;
     float: left}
 special {
-  width: 500px}
+  width: 500px;}
